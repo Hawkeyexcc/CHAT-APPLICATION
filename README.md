@@ -16,3 +16,5 @@ Real-Time Chat is powered by Socket.IO. is a web application that allows multipl
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02b0f1db-cf9e-42e3-90a2-a054a99dbb53" />
+
